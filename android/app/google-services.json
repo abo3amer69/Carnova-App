@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892927927991",
+    "project_id": "carnova-app-9e042",
+    "storage_bucket": "carnova-app-9e042.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892927927991:android:a516c156aade0cbf030f32",
+        "android_client_info": {
+          "package_name": "com.example.carnova_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRObUK71vSIJloQSXXx1BI6Hz4Jje-r4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
